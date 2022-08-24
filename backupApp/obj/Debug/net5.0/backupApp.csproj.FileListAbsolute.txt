@@ -1,0 +1,17 @@
+D:\Progects\backupApp\backupApp\bin\Debug\net5.0\backupApp.exe
+D:\Progects\backupApp\backupApp\bin\Debug\net5.0\backupApp.deps.json
+D:\Progects\backupApp\backupApp\bin\Debug\net5.0\backupApp.runtimeconfig.json
+D:\Progects\backupApp\backupApp\bin\Debug\net5.0\backupApp.runtimeconfig.dev.json
+D:\Progects\backupApp\backupApp\bin\Debug\net5.0\backupApp.dll
+D:\Progects\backupApp\backupApp\bin\Debug\net5.0\ref\backupApp.dll
+D:\Progects\backupApp\backupApp\bin\Debug\net5.0\backupApp.pdb
+D:\Progects\backupApp\backupApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Progects\backupApp\backupApp\obj\Debug\net5.0\backupApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progects\backupApp\backupApp\obj\Debug\net5.0\backupApp.AssemblyInfoInputs.cache
+D:\Progects\backupApp\backupApp\obj\Debug\net5.0\backupApp.AssemblyInfo.cs
+D:\Progects\backupApp\backupApp\obj\Debug\net5.0\backupApp.csproj.CoreCompileInputs.cache
+D:\Progects\backupApp\backupApp\obj\Debug\net5.0\backupApp.csproj.CopyComplete
+D:\Progects\backupApp\backupApp\obj\Debug\net5.0\backupApp.dll
+D:\Progects\backupApp\backupApp\obj\Debug\net5.0\ref\backupApp.dll
+D:\Progects\backupApp\backupApp\obj\Debug\net5.0\backupApp.pdb
+D:\Progects\backupApp\backupApp\obj\Debug\net5.0\backupApp.genruntimeconfig.cache

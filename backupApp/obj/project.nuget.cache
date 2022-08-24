@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rLpRlyfu8p3pjN6s3NcBTfWso8idlr2bYFD5BYJhD7PQlKy1H1mdAzUeizxQLRcCIdrscwWOn+cOkI65juBUCA==",
+  "success": true,
+  "projectFilePath": "D:\\Progects\\backupApp\\backupApp\\backupApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
